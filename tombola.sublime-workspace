@@ -1,0 +1,656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"png",
+				"kdojsme.png	w:1125 h:1000"
+			],
+			[
+				"par",
+				"parallax.min.js"
+			],
+			[
+				"hea",
+				"header2.jpg	w:1400 h:1088"
+			],
+			[
+				"jq",
+				"jquery.parallax.js"
+			],
+			[
+				"para",
+				"parallax.min.js"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"e",
+				"eq	.eq()"
+			],
+			[
+				"n",
+				"hidden"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"show",
+				"showStatus"
+			],
+			[
+				"backgrou",
+				"background-highlight"
+			],
+			[
+				"page-",
+				"page-break-after"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"over",
+				"overview"
+			],
+			[
+				"delay",
+				"delayedprojects_count"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ju",
+				"TernJS: Jump to definition"
+			],
+			[
+				"jump",
+				"TernJS: Jump to definition"
+			],
+			[
+				"ternjs",
+				"TernJS: Jump to definition"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"prettif",
+				"HTMLPrettify"
+			],
+			[
+				"remote",
+				"Git: Remote"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 417.0,
+		"history":
+		[
+			"mongo",
+			"ls",
+			"view.encoding()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Honza/Workspace/Web/tombola"
+	],
+	"file_history":
+	[
+		"/C/Users/Honza/Workspace/Web/truebeauty/less/mixins.less",
+		"/C/Users/Honza/Workspace/Web/truebeauty/js/contact_me.js",
+		"/C/Users/Honza/Workspace/Web/truebeauty/sass/mixins.scss",
+		"/C/Users/Honza/Workspace/Web/truebeauty/js/agency.js",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Honza/Workspace/Web/truebeauty/img/gallery/3.jpg",
+		"/C/Users/Honza/Workspace/Web/truebeauty/img/gallery/1.jpg",
+		"/C/Users/Honza/Workspace/Web/truebeauty/js/cbpAnimatedHeader.min.js",
+		"/C/Users/Honza/Workspace/Web/truebeauty/less/agency.less",
+		"/C/Users/Honza/Workspace/Web/truebeauty/sass/variables.scss",
+		"/C/Users/Honza/Workspace/Web/truebeauty/css/agency.css",
+		"/C/Users/Honza/Workspace/Web/vgen/app/components/image-loader.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/templates/components/code-drag.hbs",
+		"/C/Users/Honza/Workspace/Web/vgen/app/styles/_new.scss",
+		"/C/Users/Honza/Workspace/Web/vgen/app/styles/app.scss",
+		"/C/Users/Honza/Workspace/Web/vgen/app/templates/components/image-loader.hbs",
+		"/C/Users/Honza/Workspace/Web/vgen/app/routes/preview.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/templates/application.hbs",
+		"/C/Users/Honza/Workspace/Web/vgen/app/routes/new.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/controllers/application.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/templates/new.hbs",
+		"/C/Users/Honza/Workspace/Web/vgen/app/controllers/new.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/components/drop-zone.js",
+		"/C/Users/Honza/Workspace/Web/vgen/terminal.glue",
+		"/C/Users/Honza/Workspace/Web/vgen/app/styles/components/_drop-zone.scss",
+		"/C/Users/Honza/Workspace/Web/vgen/app/styles/_colors.scss",
+		"/C/Users/Honza/Workspace/Web/vgen/app/routes/application.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/styles/print.scss",
+		"/C/Users/Honza/Workspace/Web/vgen/app/templates/preview.hbs",
+		"/C/Users/Honza/Workspace/Web/vgen/app/templates/components/drop-zone.hbs",
+		"/C/Users/Honza/Workspace/Web/vgen/config/environment.js",
+		"/C/Users/Honza/Workspace/Web/vgen/dist/crossdomain.xml",
+		"/C/Users/Honza/Workspace/Web/vgen/app/app.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/styles/_settings.scss",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+		"/C/Users/Honza/Workspace/Web/vgen/app/templates/create.hbs",
+		"/C/Users/Honza/Workspace/Web/vgen/node_modules/ember-cli/node_modules/npm/node_modules/fs-vacuum/test/no-entries-with-purge.js",
+		"/C/Users/Honza/Workspace/Web/vgen/bower_components/modernizr/feature-detects/network-eventsource.js",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Honza/Workspace/Web/vgen/app/index.html",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/C/Users/Honza/Workspace/Web/vgen/vgen.sublime-project",
+		"/C/Users/Honza/Workspace/Web/vgen/node_modules/ember-cli/node_modules/bower/node_modules/fstream/lib/dir-reader.js",
+		"/C/Users/Honza/Workspace/Web/vgen/bower_components/jquery-placeholder/demo.html",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/C/Users/Honza/Workspace/Web/vgen/node_modules/ember-cli/node_modules/npm/scripts/clean-old.sh",
+		"/C/Users/Honza/Workspace/Web/vgen/bower_components/modernizr/feature-detects/css-objectfit.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/views/application.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/styles/app.css",
+		"/C/Users/Honza/Workspace/Web/vgen/app/templates/components/file-upload.hbs",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/SCSS.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Honza/Workspace/Web/vgen/app/router.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/routes/index.js",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/Honza/Workspace/Web/vgen/bower_components/chance/chance.js",
+		"/C/Users/Honza/Workspace/Web/vgen/Brocfile.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/util/vouchergen.js",
+		"/C/Users/Honza/Workspace/Web/vgen/app/components/file-upload.js",
+		"/C/Users/Honza/Workspace/Web/vgen/.jshintrc",
+		"/C/Users/Honza/Workspace/Web/vgen/app/templates/components/.gitkeep",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/Honza/Workspace/Web/temporary/index.html",
+		"/C/Users/Honza/Workspace/Web/voucher/index.html",
+		"/C/Users/Honza/Workspace/Web/truebeauty/index.html",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/C/Users/Honza/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/C/Users/Honza/Workspace/Web/vgen/dist/assets/vgen.js",
+		"/C/Users/Honza/Workspace/Web/vouchergen.html",
+		"/C/Users/Honza/Workspace/Web/vouchergen.js",
+		"/C/Users/Honza/Workspace/Web/code_list.txt",
+		"/C/Users/Honza/Workspace/Web/truebeauty/less/variables.less",
+		"/C/Users/Honza/AppData/Local/Temp/_tc/index.html",
+		"/C/Users/Honza/Downloads/index.html",
+		"/C/Users/Honza/Workspace/Web/agency/css/agency.css",
+		"/C/Users/Honza/Workspace/Web/agency/index.html",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/templates/people.hbs",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/templates/people/person.hbs",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/app.js",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/templates/application.hbs",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/controllers/people.js",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/controllers/people/person.js",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/router.js",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/routes/people/person.js",
+		"/C/Users/Honza/Workspace/Ember/Contacts/terminal.glue",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/templates/people/index.hbs",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/templates/index.hbs",
+		"/C/Users/Honza/Workspace/Ember/Contacts/app/controllers/application.js",
+		"/C/Users/Honza/Workspace/Ember/Contacts/config/environment.js",
+		"/C/Users/Honza/Workspace/Ember/rock-and-roll-episode-7/index.html",
+		"/C/Users/Honza/Workspace/Ember/rock-and-roll-episode-7/comps/episode2/no-artist.html",
+		"/C/Users/Honza/Workspace/Ember/rock-and-roll-episode-7/comps/episode6/index.html",
+		"/C/Users/Honza/Workspace/Ember/rock-and-roll-episode-7/js/app.js",
+		"/C/Users/Honza/Workspace/Ember/Contacts/config/terminal.glue",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/routes/todos/complete.js",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/routes/todos/active.js",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/routes/todos.js",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/templates/todos/index.hbs",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/templates/todos.hbs",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/router.js",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/controllers/todos.js",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/controllers/todo.js",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/models/todo.js",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/templates/application.hbs",
+		"/C/Users/Honza/Workspace/Ember/Todos/app/adapters/application.js",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/Honza/AppData/Local/Temp/_tc/rock-and-roll-episode-7/comps/episode4/new-song.html",
+		"/C/Users/Honza/Workspace/Trask/EclipseEE/TIF_Core/TIF_Central_Gateway/src/main/resources/cz/trask/tif/cgw/modules/core/MDRModule.xsd",
+		"/C/Users/Honza/Workspace/Trask/EclipseEE/TCGW_Config/auth/users2.xml",
+		"/C/Users/Honza/Downloads/GEM_GET_CARD_BYBIRTH_001_Dapi.xml",
+		"/C/Users/Honza/Workspace/Trask/EclipseEE/TIF_Core/TIF_Central_Gateway/installClient.bat",
+		"/C/Users/Honza/Apps/apache-tomcat-7.0.50/logs/catalina.out"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.js",
+			"*.scss",
+			"C:\\Users\\Honza\\Workspace\\Web\\vgen\\app",
+			"",
+			"app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"subhea",
+			"center",
+			".overl",
+			"portfolioModalAnicka",
+			"portfolioModalLucie",
+			"overlay",
+			"header",
+			"dang",
+			"Sorry",
+			"header",
+			"headeer",
+			"header",
+			".team",
+			"paralla",
+			"200px",
+			"ač",
+			"flexslid",
+			"flexslider",
+			"portfolioModalAnicka",
+			"#team",
+			"header",
+			"Lucka",
+			"gallery",
+			"plati",
+			"url",
+			"min-w",
+			"max-w",
+			"min-w",
+			"max-w",
+			"tab",
+			"pound",
+			"$color-main",
+			"$color-main-darkest",
+			"$color-main-light",
+			"$color-main-lightest",
+			"gray-dark",
+			"$button-font",
+			"$color-main-lighter",
+			"$color-darkest",
+			"$gray",
+			"$gray-darkest",
+			"gray-li",
+			"header",
+			"header-",
+			"white",
+			"navbar-he",
+			"logo",
+			".serif-font;",
+			".background-cover;",
+			".heading-font;",
+			".script-font",
+			"spin",
+			"~\"(.*)\"",
+			"\\.([\\w\\-]*\\(.*\\)\\s*;)",
+			"\\.([\\w\\-]*)\\s*\\((.*)\\)\\s*\\{",
+			"@(?!font-face|import|media|keyframes|-)",
+			"$media",
+			"@",
+			"@include(\\W+[.#][^(;]*;)",
+			"[.#]([^(;]*\\()",
+			"(@include\\W+)[.#]([^(;]*\\()",
+			"@include(\\W+[.#][^(;]*;)",
+			"@((?!media|include)[a-zA-Z_]*)",
+			"page-scr",
+			"image-loader",
+			"*security_policy*",
+			"security_policy",
+			"javascr",
+			"ignore",
+			"100",
+			"grayscale",
+			"opacity",
+			"file-upload",
+			"string(",
+			"apply",
+			"conso",
+			"\"",
+			"scroll",
+			"page-scroll",
+			"page-sc",
+			"container",
+			"navbar-he",
+			"navbar-header",
+			".text",
+			"#222",
+			".text-",
+			"text-",
+			"background:",
+			"imports",
+			"rm-ip-site",
+			"MetadataDefini",
+			"NetadataDefini",
+			"MetadataDef",
+			"GetMetadataDefinitionsResponse",
+			"TestBoolean",
+			"TestDouble",
+			"TestBoolean",
+			"TestBoolean_001",
+			"order_test",
+			"MDR_",
+			"MDR.IN.NEW",
+			"JAVA_HO",
+			"mvn",
+			"mvn2",
+			"Honza",
+			"maven",
+			"Typ<",
+			"type\"]",
+			"[TR]",
+			"$mysql_db_basename",
+			"adm_index",
+			"wiloplus_",
+			"priceLi",
+			"Ceník WILO",
+			"typ\"",
+			"Typ",
+			"cscoremanager",
+			"CSCoremanager",
+			"$lng[\"Email",
+			"\"Email",
+			"comchanneltitle",
+			"Fax",
+			"= \"",
+			"Jihočeský",
+			"Praha",
+			"country_sk",
+			"country_cz",
+			"= \""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$main-color",
+			"$main-color-dark",
+			"$main-color-light",
+			"$color-main-light",
+			"$font-color",
+			"$background-color",
+			"$color-main-darkest",
+			"$color-main",
+			"$color-darkest",
+			"@include serif-font();",
+			"@include background-cover();",
+			"@include heading-font();",
+			"@include script-font();",
+			"adjust-hue",
+			"#{\"\\1\"}",
+			"@include \\1",
+			"@mixin \\1\\(\\2\\)\\n{",
+			"$",
+			"$\\1",
+			"@mixin \\1",
+			"@mixin \\2",
+			"\\1\\2",
+			"@extend\\1",
+			"$\\1",
+			"'",
+			"= \"[TR] ",
+			"= \"[TR]  ",
+			"",
+			"`",
+			"<?php",
+			"<?"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tombola.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mixins",
+				"sass\\mixins.scss"
+			],
+			[
+				"termi",
+				"terminal.glue"
+			],
+			[
+				"new.js",
+				"app\\routes\\new.js"
+			],
+			[
+				"applica",
+				"app\\routes\\application.js"
+			],
+			[
+				"drop",
+				"app\\styles\\components\\_drop-zone.scss"
+			],
+			[
+				"env",
+				"config\\environment.js"
+			],
+			[
+				"environ",
+				"config\\environment.js"
+			],
+			[
+				"color",
+				"app\\styles\\_colors.scss"
+			],
+			[
+				"application",
+				"app\\routes\\application.js"
+			],
+			[
+				"new.hbs",
+				"app\\templates\\new.hbs"
+			],
+			[
+				"dropzonehb",
+				"app\\templates\\components\\drop-zone.hbs"
+			],
+			[
+				"dropzone",
+				"app\\styles\\components\\_drop-zone.scss"
+			],
+			[
+				"dropzonejs",
+				"app\\components\\drop-zone.js"
+			],
+			[
+				"colors",
+				"app\\styles\\_colors.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
