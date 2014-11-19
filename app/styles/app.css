@@ -1,3 +1,67 @@
 html, body {
-  margin: 20px;
+    font-family: sans-serif, Helvetica, Arial;
+    font-size: 1em;
+}
+
+.toggle {
+    font-size: 0.875em;
+    color: #CBCBCB;
+}
+
+input#newTicket {
+
+}
+
+.help:hover span {
+    display: inline-block;
+}
+
+.error {
+    display: inline-block;
+    margin-left: 10px;
+    color: red;
+}
+
+.tickets {
+}
+
+.ticket {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.ticket span {
+    font-size: 4.5em;
+    font-weight: bold;
+    position: relative;
+    top: 30%;
+}
+
+.red {
+    background-color: #FF5555;
+    color: #1A1A1A;
+}
+
+.green {
+    background-color: #6EAD77;
+    color: #1A1A1A;
+}
+
+.blue {
+    background-color: #6A9CE5;
+    color: #1A1A1A;
+}
+
+.yellow {
+    background-color: #FFFF7F;
+    color: #1A1A1A;
+}
+
+.white {
+    background-color: #E3E3E3;
+    color: #1A1A1A;
 }

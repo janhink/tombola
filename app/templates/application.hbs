@@ -1,7 +1,16 @@
-<h2 id='title'>Tombola</h2>
+<a class="toggle" href='#' title="Skryj nebo zobraz vstupní pole" {{action "toggleInput"}}>{{#if showInput}}>{{else}}<{{/if}}</a>
+{{#if showInput}}
+    {{ticket-input id="newTicket" maxlength=4 placeholder="Zadej lístek výherce" title=inputTitle value=newTicket action="add" class=inputClass insert-newline="acceptChanges"}}
+    <a class="toggle" href="#" title="Vyčistit" {{action "clear"}}>Vyčistit</a>
+</span>
+{{/if}}
 
-{{input id="newTicket" type="number" placeholder="Zadej číslo výherce" value=newTicket action="add"}}
+{{#if validation}}
+    <div class="error">{{validation}}</div>
+{{/if}}
 
-{{#each ticket in tickets}}
-    <div class="ticket">{{ticket}}</div>
-{{/each}}
+<div class="tickets">
+    {{#each ticket in tickets}}
+        {{ticket-box ticket=ticket action="remove"}}
+    {{/each}}
+</div>
